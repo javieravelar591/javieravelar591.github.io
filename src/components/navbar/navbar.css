@@ -1,0 +1,54 @@
+.topnav {
+    height: 5rem;
+    width: 100vw;
+    max-width: 75rem;
+    margin: 0 auto;
+    padding: 1rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    background-color: rgb(30,30,30);
+    z-index: 3;
+}
+
+.logo {
+    object-fit: cover;
+    height: 4rem;
+    width: 4rem;
+}
+
+.desktopMenuListItem {
+    margin: 3rem;
+    cursor: pointer;
+}
+
+.desktopMenuListItem:hover {
+    color: rgba(119, 119, 255, 0.705);
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid rgba(119, 119, 255, 0.705);
+}
+
+.contactMeBtn {
+    background-color: white;
+    color: black;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 1rem;
+    border-radius: 2rem;
+    cursor: pointer;
+}
+
+/* Not a fan, fix this */
+.contactMeBtn:hover {
+    background-color: rgba(119, 119, 255, 0.705);
+}
+
+.contactIcon {
+    object-fit: contain;
+    height: 2.5rem;
+    width: 2.5rem;
+}

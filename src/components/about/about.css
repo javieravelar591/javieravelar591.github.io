@@ -1,0 +1,23 @@
+#aboutme {
+    width: 100vw;
+    max-width: 75rem;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+}
+
+.about-header,
+.xp-header,
+.skills-header,
+.interests-header {
+    padding: 1rem 0;
+    font-size: 2.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.about-span,
+.interests-span {
+    font-size: 1.5rem;
+}
