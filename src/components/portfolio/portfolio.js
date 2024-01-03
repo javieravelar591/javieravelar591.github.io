@@ -2,7 +2,6 @@ import React from 'react';
 import { useState, useEffect } from 'react';
 import './portfolio.css';
 import blend from '../../resources/blend-logo.png'
-import skateboard from '../../resources/skateboard-icon.png'
 import portfolio from '../../resources/portfolio.png'
 import umn from '../../resources/goldy.png'
 import skatesite from '../../resources/wahoo-skate2.png'
