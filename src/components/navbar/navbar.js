@@ -1,7 +1,6 @@
 import React from 'react';
 import './navbar.css';
 import logo from '../../resources/logo.png';
-import contactIcon from '../../resources/contacticon.png';
 import { Link } from 'react-scroll';
 
 const Navbar = () => {
@@ -13,9 +12,11 @@ const Navbar = () => {
             <Link to='portfolio' smooth duration={ 500 } className="desktopMenuListItem">Portfolio</Link>
             <Link to='aboutme' smooth duration={ 500 } className="desktopMenuListItem">About</Link>
         </div>
-        <button className='contactMeBtn'>
-            <Link to='contact' smooth duration={ 500 }></Link> Get In Touch
-        </button>
+        <Link to='contact' smooth duration={ 500 }>
+            <button className='contactMeBtn'>
+                Get In Touch
+            </button>
+        </Link> 
 
     </nav>
   )
