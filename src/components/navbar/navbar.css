@@ -30,7 +30,7 @@
     border-bottom: 3px solid rgba(119, 119, 255, 0.705);
 }
 
-.contactMeBtn {
+/* .contactMeBtn {
     background-color: white;
     color: black;
     border: none;
@@ -40,6 +40,14 @@
     padding: 0 1rem;
     border-radius: 2rem;
     cursor: pointer;
+} */
+.contactMeBtn {
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.4);
+    border-bottom: 4px solid;
+    border-color: rgb(85, 84, 84);
+    color: white;
+    height: 45px;
+    width: 180px;
 }
 
 /* Not a fan, fix this */

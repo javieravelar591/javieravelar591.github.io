@@ -1,3 +1,6 @@
+/* * {
+    font-family : "Poppins", sans-serif;
+} */
 #intro {
     height: calc(100vh - 4rem);
     width: 100vw;
@@ -15,20 +18,67 @@
     object-fit: cover;
     right: 0;
     z-index: -1;
+    transform: translateX(200%);
+    animation: slideInPhoto 1s forwards 1.25s;
 }
 
 .intro-content {
     height: 100vh;
     width: calc(100vw - 33vw);
+
     padding: 2rem;
     font-size: 3rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    opacity: 0;
+    transform: translateX(-100%);
+    animation: slideIn 1s forwards;
 }
 
-.greeting {
-    font-size: 2rem;
+.greeting1 {
+    font-size: 5rem;
+    transform: translateX(-100%);
+    animation: slideInGreet 1s forwards .5s;
+}
+
+.greeting2 {
+    font-size: 5rem;
+    transform: translateX(-100%);
+    animation: slideInGreet 1s forwards 1.25s;
+}
+
+.intro-about {
+    transform: translateX(-100%);
+    animation: slideInAbout 1s forwards 2.5s;
+}
+
+@keyframes slideIn {
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes slideInGreet {
+    to {
+        opacity: 1; /* Final opacity set to 1 */
+        transform: translateX(0); /* Final position at 0% translation */
+    }
+}
+
+@keyframes slideInAbout {
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes slideInPhoto {
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
 }
 
 .btn {
