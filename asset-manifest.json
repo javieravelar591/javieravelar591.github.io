@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.ce914529.css",
-    "main.js": "/my-portfolio/static/js/main.9d69cda0.js",
+    "main.css": "/my-portfolio/static/css/main.7677e13f.css",
+    "main.js": "/my-portfolio/static/js/main.41f01121.js",
     "static/media/wahoo-skate2.png": "/my-portfolio/static/media/wahoo-skate2.88cdc8e98578105fccec.png",
     "static/media/portfolio.png": "/my-portfolio/static/media/portfolio.82dab1deff25cb06a951.png",
     "static/media/headshot.jpg": "/my-portfolio/static/media/headshot.d869028dce8edaaedf49.jpg",
@@ -9,11 +9,11 @@
     "static/media/threadpool.png": "/my-portfolio/static/media/threadpool.089bec113a54b10ff423.png",
     "static/media/blend-logo.png": "/my-portfolio/static/media/blend-logo.1d2c86f9cf2afce1416a.png",
     "index.html": "/my-portfolio/index.html",
-    "main.ce914529.css.map": "/my-portfolio/static/css/main.ce914529.css.map",
-    "main.9d69cda0.js.map": "/my-portfolio/static/js/main.9d69cda0.js.map"
+    "main.7677e13f.css.map": "/my-portfolio/static/css/main.7677e13f.css.map",
+    "main.41f01121.js.map": "/my-portfolio/static/js/main.41f01121.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce914529.css",
-    "static/js/main.9d69cda0.js"
+    "static/css/main.7677e13f.css",
+    "static/js/main.41f01121.js"
   ]
 }
