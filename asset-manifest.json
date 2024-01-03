@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.7677e13f.css",
+    "main.css": "/my-portfolio/static/css/main.3144726e.css",
     "main.js": "/my-portfolio/static/js/main.653fd7ec.js",
     "static/media/wahoo-skate2.png": "/my-portfolio/static/media/wahoo-skate2.88cdc8e98578105fccec.png",
     "static/media/portfolio.png": "/my-portfolio/static/media/portfolio.82dab1deff25cb06a951.png",
@@ -9,11 +9,11 @@
     "static/media/threadpool.png": "/my-portfolio/static/media/threadpool.089bec113a54b10ff423.png",
     "static/media/blend-logo.png": "/my-portfolio/static/media/blend-logo.1d2c86f9cf2afce1416a.png",
     "index.html": "/my-portfolio/index.html",
-    "main.7677e13f.css.map": "/my-portfolio/static/css/main.7677e13f.css.map",
+    "main.3144726e.css.map": "/my-portfolio/static/css/main.3144726e.css.map",
     "main.653fd7ec.js.map": "/my-portfolio/static/js/main.653fd7ec.js.map"
   },
   "entrypoints": [
-    "static/css/main.7677e13f.css",
+    "static/css/main.3144726e.css",
     "static/js/main.653fd7ec.js"
   ]
 }
