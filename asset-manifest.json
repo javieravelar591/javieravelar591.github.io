@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.aba60a4b.css",
-    "main.js": "/my-portfolio/static/js/main.95ab3ae5.js",
-    "static/media/wahoo-skate2.png": "/my-portfolio/static/media/wahoo-skate2.88cdc8e98578105fccec.png",
-    "static/media/portfolio.png": "/my-portfolio/static/media/portfolio.82dab1deff25cb06a951.png",
-    "static/media/headshot.jpg": "/my-portfolio/static/media/headshot.d869028dce8edaaedf49.jpg",
-    "static/media/goldy.png": "/my-portfolio/static/media/goldy.3ccfd3b111de1f80f049.png",
-    "static/media/threadpool.png": "/my-portfolio/static/media/threadpool.089bec113a54b10ff423.png",
-    "static/media/blend-logo.png": "/my-portfolio/static/media/blend-logo.1d2c86f9cf2afce1416a.png",
-    "index.html": "/my-portfolio/index.html",
-    "main.aba60a4b.css.map": "/my-portfolio/static/css/main.aba60a4b.css.map",
-    "main.95ab3ae5.js.map": "/my-portfolio/static/js/main.95ab3ae5.js.map"
+    "main.css": "/jobvier/static/css/main.aba60a4b.css",
+    "main.js": "/jobvier/static/js/main.9e599f6b.js",
+    "static/media/wahoo-skate2.png": "/jobvier/static/media/wahoo-skate2.88cdc8e98578105fccec.png",
+    "static/media/portfolio.png": "/jobvier/static/media/portfolio.82dab1deff25cb06a951.png",
+    "static/media/headshot.jpg": "/jobvier/static/media/headshot.d869028dce8edaaedf49.jpg",
+    "static/media/goldy.png": "/jobvier/static/media/goldy.3ccfd3b111de1f80f049.png",
+    "static/media/threadpool.png": "/jobvier/static/media/threadpool.089bec113a54b10ff423.png",
+    "static/media/blend-logo.png": "/jobvier/static/media/blend-logo.1d2c86f9cf2afce1416a.png",
+    "index.html": "/jobvier/index.html",
+    "main.aba60a4b.css.map": "/jobvier/static/css/main.aba60a4b.css.map",
+    "main.9e599f6b.js.map": "/jobvier/static/js/main.9e599f6b.js.map"
   },
   "entrypoints": [
     "static/css/main.aba60a4b.css",
-    "static/js/main.95ab3ae5.js"
+    "static/js/main.9e599f6b.js"
   ]
 }
