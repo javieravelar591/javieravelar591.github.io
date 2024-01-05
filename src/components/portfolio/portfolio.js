@@ -44,7 +44,7 @@ export const Portfolio = () => {
                         </div>
                         <div className='content'>
                             <h3>ThreadPool</h3>
-                            <p>ThreadPool is a social media platform I designed from the ground up. Using tools such as NodeJS, bcrypt, MySQL, and more, users are able securely register accounts and login, create and edit new posts, and interact with other users' posts.</p>
+                            <p>ThreadPool is a social media platform I designed from the ground up using tools such as NodeJS, bcrypt, MySQL, and more. Users are able securely register accounts and login, create and edit new posts, and interact with other users' posts.</p>
                         </div>
                     </div>
                     <div className='card'>
