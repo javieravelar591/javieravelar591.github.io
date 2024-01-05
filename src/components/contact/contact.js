@@ -15,7 +15,8 @@ export const Contact = () => {
         .then((result) => {
             console.log(result.text);
             setEmailSent(true);
-        }).catch((error) => {
+        })
+        .catch((error) => {
             console.log(error.text);
         });
     };

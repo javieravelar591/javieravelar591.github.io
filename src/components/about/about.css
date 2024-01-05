@@ -17,7 +17,7 @@
     justify-content: center;
     opacity: 0;
     transform: translateY(50px);
-    transition: opacity 0.5s, tranform 0.5s;
+    transition: opacity 2s, tranform 2s;
 }
 
 .slide-up {
