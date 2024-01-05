@@ -1,0 +1,98 @@
+#experience {
+    width: 100vw;
+    height: 70vh;
+    max-width: 75rem;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+    background-color: rgb(30,30,30);
+}
+
+.portfolio-header {
+    font-size: 2.5rem;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 2rem;
+    color: #ffffff;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 1s, transform 1s;
+}
+
+.portfolio-header.slide-up {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.cards-div-exp {
+    position : relative;
+    margin: auto;
+    width : 1100px;
+    display : flex;
+    align-items : center;
+    justify-content : center;
+    flex-wrap : wrap;
+    padding : 30px;
+    margin-top: 4rem;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 5s, transform 2s;
+}
+
+.cards-div-exp.slide-up {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.card {
+    position: relative;
+    max-width : 300px;
+    height : 215px;  
+    background-color : #fff;
+    margin : 40px 10px;
+    padding : 20px 15px;
+
+    display : flex;
+    flex-direction : column;
+    box-shadow : 0 5px 20px rgba(0,0,0,0.5);
+    transition : 0.3s ease-in-out;
+    border-radius : 15px;
+}
+
+.cards-div-exp .card:hover {
+    height : 340px;    
+}
+
+.cards-div-exp .card .image {
+    position : relative;
+    width : 260px;
+    height : 260px;
+    top : -40%;
+    left: 8px;
+    box-shadow : 0 5px 20px rgba(0,0,0,0.2);
+    z-index : 1;
+}
+
+.cards-div-exp .card .image img {
+    max-width : 100%;
+    border-radius : 15px;
+}
+
+.cards-div-exp .card .content {
+    position : relative;
+    top : -140px;
+    padding : 10px 15px;
+    color : #111;
+    text-align : center;
+    font-size: .9rem;
+    visibility : hidden;
+    opacity : 0;
+    transition : 0.3s ease-in-out;
+}
+
+.cards-div-exp .card:hover .content {
+    margin-top : 30px;
+    visibility : visible;
+    opacity : 1;
+    transition-delay: 0.2s;
+}

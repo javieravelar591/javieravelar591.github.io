@@ -28,9 +28,9 @@ export const About = () => {
       <Element name='aboutme'>
           <section id='aboutme'>
               <div className={`about-content ${isAnimated ? 'slide-up' : ''}`}>
-                    <h1 className='about-header'>¡Hola! I'm Javi,</h1>
+                    <h1 className='about-header'>¡Hola! I'm Javi</h1>
                     <span className='about-span'>
-                    I'm a passionate and collaborative developer on a mission to make technology accessible for everyone's benefit. My experience in software development, coupled with a degree in Computer Science, equips me to create efficient, effective, and empathetic solutions. <br />
+                    I'm a passionate and collaborative developer on a mission to make technology more accessible. My experience in software development, coupled with a degree in Computer Science, equips me to create efficient, effective, and empathetic solutions. <br />
                     <h2>A little more about me:</h2>
                     {/* I'm a first-generation Latinx student who has recently completed a bachelor's degree in Computer Science. I grew up in an immigrant household with limited-English speaking parents. As a result,
                     I've witnessed firsthand the repercussions of non-accessible technology and unempathetic solutions. This fuels my commitment to creating solutions that break down barriers and serve diverse communities. */}

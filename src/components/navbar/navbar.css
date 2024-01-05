@@ -1,5 +1,9 @@
+body {
+    margin-top: 0px;
+}
+
 .topnav {
-    height: 5rem;
+    height: 3.5rem;
     width: 100vw;
     max-width: 75rem;
     margin: 0 auto;
@@ -9,7 +13,7 @@
     justify-content: space-between;
     position: sticky;
     top: 0;
-    background-color: rgb(30,30,30);
+    background-color: rgb(40,40,40);
     z-index: 3;
 }
 
@@ -43,8 +47,9 @@
 } */
 .contactMeBtn {
     box-shadow: 0 5px 5px rgba(0, 0, 0, 0.4);
+    background-color: rgb(40, 40, 40);
     border-bottom: 4px solid;
-    border-color: rgb(85, 84, 84);
+    border-color: rgb(30, 30, 30);
     color: white;
     height: 45px;
     width: 180px;

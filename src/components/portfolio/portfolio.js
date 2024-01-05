@@ -23,8 +23,8 @@ export const Portfolio = () => {
     return (
         <Element name='portfolio'>
             <section id='portfolio'>
-                <h1 className={`portfolio-header ${scrollPosition > 100 ? 'slide-up' : ''}`}>Here's some of my work</h1>
-                <div className={`cards-div  ${scrollPosition > 200 ? 'slide-up' : ''}`}>
+                <h1 className={`portfolio-header ${scrollPosition > 300 ? 'slide-up' : ''}`}>Here's some of my work</h1>
+                <div className={`cards-div  ${scrollPosition > 300 ? 'slide-up' : ''}`}>
                     <div className='card'>
                         <div className='image'>
                             <a href='https://github.com/javieravelar591/wahoo-skate' target='_blank'>
