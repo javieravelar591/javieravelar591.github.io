@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jobvier/static/css/main.0eaee7cd.css",
-    "main.js": "/jobvier/static/js/main.eefe0514.js",
+    "main.css": "/jobvier/static/css/main.b25cd58e.css",
+    "main.js": "/jobvier/static/js/main.e9f0ff73.js",
     "static/media/wahoo-skate2.png": "/jobvier/static/media/wahoo-skate2.88cdc8e98578105fccec.png",
     "static/media/portfolio.png": "/jobvier/static/media/portfolio.82dab1deff25cb06a951.png",
     "static/media/headshot.jpg": "/jobvier/static/media/headshot.d869028dce8edaaedf49.jpg",
@@ -9,11 +9,11 @@
     "static/media/threadpool.png": "/jobvier/static/media/threadpool.089bec113a54b10ff423.png",
     "static/media/blend-logo.png": "/jobvier/static/media/blend-logo.1d2c86f9cf2afce1416a.png",
     "index.html": "/jobvier/index.html",
-    "main.0eaee7cd.css.map": "/jobvier/static/css/main.0eaee7cd.css.map",
-    "main.eefe0514.js.map": "/jobvier/static/js/main.eefe0514.js.map"
+    "main.b25cd58e.css.map": "/jobvier/static/css/main.b25cd58e.css.map",
+    "main.e9f0ff73.js.map": "/jobvier/static/js/main.e9f0ff73.js.map"
   },
   "entrypoints": [
-    "static/css/main.0eaee7cd.css",
-    "static/js/main.eefe0514.js"
+    "static/css/main.b25cd58e.css",
+    "static/js/main.e9f0ff73.js"
   ]
 }
