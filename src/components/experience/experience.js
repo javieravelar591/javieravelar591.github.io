@@ -22,8 +22,8 @@ export const Experience = () => {
     return (
         <Element name='experience'>
             <section id='experience'>
-                <h1 className={`portfolio-header ${scrollPosition > 1200 ? 'slide-up' : ''}`}>And my professional experience</h1>
-                <div class={`cards-div-exp  ${scrollPosition > 1200 ? 'slide-up' : ''}`}>
+                <h1 className={`portfolio-header ${scrollPosition > 1800 ? 'slide-up' : ''}`}>And my professional experience</h1>
+                <div class={`cards-div-exp  ${scrollPosition > 1800 ? 'slide-up' : ''}`}>
                     <div class='card'>
                         <div class='image'>
                             <img href="#" src= { blend } alt='blend-logo' />
