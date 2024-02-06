@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jobvier/static/css/main.39776993.css",
+    "main.css": "/jobvier/static/css/main.bf6a7819.css",
     "main.js": "/jobvier/static/js/main.248b2f58.js",
     "static/media/wahoo-skate2.png": "/jobvier/static/media/wahoo-skate2.88cdc8e98578105fccec.png",
     "static/media/portfolio.png": "/jobvier/static/media/portfolio.82dab1deff25cb06a951.png",
@@ -9,11 +9,11 @@
     "static/media/threadpool.png": "/jobvier/static/media/threadpool.089bec113a54b10ff423.png",
     "static/media/blend-logo.png": "/jobvier/static/media/blend-logo.1d2c86f9cf2afce1416a.png",
     "index.html": "/jobvier/index.html",
-    "main.39776993.css.map": "/jobvier/static/css/main.39776993.css.map",
+    "main.bf6a7819.css.map": "/jobvier/static/css/main.bf6a7819.css.map",
     "main.248b2f58.js.map": "/jobvier/static/js/main.248b2f58.js.map"
   },
   "entrypoints": [
-    "static/css/main.39776993.css",
+    "static/css/main.bf6a7819.css",
     "static/js/main.248b2f58.js"
   ]
 }
